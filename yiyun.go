@@ -1,4 +1,4 @@
-package yiyun
+package yiyun_ip_go
 
 import (
 	"encoding/json"

@@ -3,7 +3,7 @@ package main
 import (
 	"flag"
 	"fmt"
-	yiyun "github.com/fatelei/yiyun-ip-go/pkg"
+	yiyun "github.com/fatelei/yiyun-ip-go"
 )
 
 func main() {
